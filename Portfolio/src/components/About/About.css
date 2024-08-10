@@ -1,0 +1,41 @@
+.main-container {
+    display: flex;
+    width: 80%;
+}
+.img{ 
+    display: flex;
+    height:40vh;
+    margin-left: 0%;
+    margin: 10% 15% 10% 10%;
+    width: 40%;
+    
+}
+.about-me{
+    margin-top: 10%;
+    text-align: left;
+    width: 50%;
+    margin-left: 10%;
+    font-weight: 600;
+}
+.horizontal{
+    width: 85%;
+    margin-left: 7.5%;
+    
+}
+.main-container-1{
+    display: flex;
+    width: 80%;
+}
+.sub-main{
+    width: 50%;
+    margin: 5% 10% 10% 10%;
+    font-weight: 600;
+}
+.about-me-1{
+    margin-top: 4%;
+    text-align: left;
+    width: 50%;
+    margin-left: 10%;
+    font-weight: 600;
+
+}

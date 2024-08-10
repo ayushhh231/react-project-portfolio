@@ -1,0 +1,89 @@
+/* .container{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+.first-name{
+    display: flexbox;
+    margin-top: 5%;
+    font-size: larger;
+    
+
+}
+.first-name label{
+     margin-right: 60px; 
+}
+.last-name{
+    margin-top: 5%;
+    font-size: larger;
+    
+
+}
+
+.container1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.email-content{
+    margin-top: 10%;
+    font-size: larger;
+    
+}
+
+
+.phone-content{
+    margin-top: 10%;
+    font-size: larger;
+    
+}
+.text{
+    display: flex;
+
+}
+#message{
+    margin-left: 10%;
+    margin-top: 6%;
+    padding: 0.8rem 1rem;
+
+}
+#para-content{
+    margin-left: 15.5%;
+    margin-top: 6%;
+    font-size: larger;
+    
+}
+textarea {
+    
+    width: 30%;
+    height: 15%;
+    
+}
+.submit1{
+    margin-left: 50%;
+    margin-top: 5%;
+    padding: 1%;
+    border-radius: 15px;
+    border: none;
+}
+.submit1:hover{
+    background-color: rgba(82, 142, 180, 0.852);
+    color: white;
+    border: none;
+}
+
+.last-name{
+    margin-left: 160px;
+}
+.email-content label{
+    margin-right: 40px;
+}
+.email-content input{
+    margin-right: 70px;
+}
+.text{
+    margin-right: 16%;
+}
+#message{
+    margin-right: 110px;
+} */
